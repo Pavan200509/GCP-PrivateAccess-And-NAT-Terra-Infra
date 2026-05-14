@@ -1,4 +1,6 @@
-# GCP-PrivateAccess-And-NAT-Terra-Infra
+# GCP-PrivateAccess-And-NAT-Terra-Infra 
+
+Lab - Configuring Private Google Access and NAT - GSP459
 
 # Private Access -
 VM's inside a VPC of a project can only access the VM's, LB, Network, and Subnet that are in same account, But cannot access directly the google managed services like big query, Spanner, Armor etc. As they are not part of google cloud Account.
