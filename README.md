@@ -18,6 +18,8 @@ A network Interface is configured when an every VM is configured, it acts as poi
 
 # Diagram
 
+GCP-PrivateAccess-And-NAT-Terra-Infra/edit/main/Architecture Image
+
 # Components
 Network,
 Network Interface (NIC),
